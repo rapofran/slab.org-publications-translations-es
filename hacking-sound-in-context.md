@@ -1,4 +1,4 @@
-# Hacking Sound ind Context
+# Hacking Sound in Context
 ###### (español traducido por: rapo)
 
 
