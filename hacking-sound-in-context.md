@@ -1,10 +1,9 @@
-# HACKING SOUND IN CONTEXT
+# Hacking Sound ind Context
 ###### (español traducido por: rapo)
 
 
 ##### Alex McLean
-##### alex@state51.co.uk,
-##### state51 Rhoda Street, Londres, E2 7EF
+##### alex@state51.co.uk, state51 Rhoda Street, Londres, E2 7EF
 
 
 Sin software, una computadora es como una piedra. Si consideramos un programa que genera sonidos organizados ¿que podría ser sino una banda sonora compuesta por humanos? Sugiero que, en última instancia, el software no puede ser otra cosa que la expresión humana.
